@@ -4,9 +4,8 @@ Representative physics-informed neural network (PINN) implementations for the fo
 
 These codes accompany the manuscript:
 
-**“Multi-task analysis and design of functionally graded hyperelastic cylinders by physics-informed neural networks”**
+**“Multi-task analysis and design of axially constrained functionally graded hyperelastic cylinders by physics-informed neural networks”**
 
-Previous Manuscript Number: **ENGSTRUCT-D-26-05735**, *Engineering Structures*.
 
 ## Repository contents
 
